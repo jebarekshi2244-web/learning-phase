@@ -1,0 +1,52 @@
+.One {
+    font-size: small;
+    color:#E0D9F6;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+button {
+    border-radius: 4px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(220, 220, 78);
+    width: 40%;
+    height: 4vh;
+    color: rgb(17, 17, 9);
+    border-color: rgb(29, 25, 20);
+    justify-content: center;
+}
+.new {
+    border: 2px solid black;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    width: 400px;
+    height:120vh;
+    padding:30px;
+    margin: 40px auto;
+    background-image: url('./a.jpeg');
+    flex-direction: column;
+}
+
+.One label {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: 500;
+    
+}
+.One input {
+    background-color: rgb(177, 195, 197);
+    border-radius: 0cm;
+    width:100%;
+    padding: 6px;
+    border:rgb(16, 16, 87);
+}
+.Two {
+    color: aliceblue;
+}
+
+.Three {
+    text-decoration: underline;
+    color: yellow;
+}

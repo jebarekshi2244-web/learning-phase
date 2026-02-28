@@ -1,0 +1,33 @@
+.forgot {
+    font-size: 10px;
+    color: #d91515;
+    text-decoration: none;
+}
+.forgot:hover {
+    color: rgb(139, 72, 197);
+    text-decoration: underline;
+    font-size: large;
+}
+button {
+    font-style: italic;
+    color: gray;
+    width: 10%;
+    border-radius: 15px;
+}
+button:hover {
+     color: black;
+     background-color: goldenrod;
+}
+input {
+    height: 40px;
+    width: 35%;
+    border-color: aliceblue;
+}
+.new {
+    border: 2px solid black;
+    width:35%;
+    height:70vh;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+}
