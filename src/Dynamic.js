@@ -2,7 +2,7 @@ import React from "react";
 const Dynamic=()=>{
     return (
         <>
-         This is dynamic page
+         This is dynamic page of new
         </>
     )
 }
